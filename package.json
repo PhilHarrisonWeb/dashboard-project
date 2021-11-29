@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^4.6.1",
     "vue": "^3.2.16",
     "vue-good-table-next": "^0.1.0",
     "vue-router": "^4.0.12",
