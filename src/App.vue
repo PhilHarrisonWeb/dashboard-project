@@ -17,7 +17,7 @@ export default {
   components: {
     AppContainer,
     AppHeader,
-    AppSideBar
+    AppSideBar,
 },
 }
 
